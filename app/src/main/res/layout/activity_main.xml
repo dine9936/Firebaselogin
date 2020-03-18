@@ -14,5 +14,6 @@
         android:id="@+id/edit_mobile"
         android:hint="Enter your Mobile"
         android:textAlignment="center"
-        android:gravity="center_horizontal" />
+        android:gravity="center_horizontal"
+        />
 </RelativeLayout>
