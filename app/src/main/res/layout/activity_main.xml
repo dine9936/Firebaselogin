@@ -16,4 +16,12 @@
         android:textAlignment="center"
         android:gravity="center_horizontal"
         />
+    <Button
+        android:id="@+id/bttn_send_otp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="send otp"
+        android:layout_below="@+id/edit_mobile"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
 </RelativeLayout>
